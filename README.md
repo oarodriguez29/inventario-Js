@@ -1,2 +1,2 @@
-# inventario-ng
-registro de inventario desarrollado con angular JS
+# inventario-Js
+registro de inventario desarrollado con JS
